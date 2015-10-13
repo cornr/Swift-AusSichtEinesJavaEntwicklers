@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='raw'>
+    <pages>
+        <page name='HelloWorld'/>
+        <page name='AboutSwfit'/>
+        <page name='WhySwift'/>
+        <page name='Simple Values'/>
+        <page name='Control Flow'/>
+        <page name='Functions and Closures'/>
+        <page name='Objects and Classes'/>
+        <page name='Enumerations and Structures'/>
+        <page name='Protocols and Extensions'/>
+        <page name='Generics'/>
+        <page name='Pattern Matching'/>
+        <page name='Protocol Extensions'/>
+        <page name='Error Handling'/>
+        <page name='Future'/>
+        <page name='Links'/>
+    </pages>
+</playground>
